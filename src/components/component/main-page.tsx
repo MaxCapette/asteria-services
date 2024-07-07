@@ -324,7 +324,7 @@ export function MainPage() {
           <p className="   ">13007 MARSEILLE</p>
           <p className="  mt-4 ">contact@asteria-services.fr</p>
 
-          <p className="  mt-4 ">TEL: 04 84 89 63 50</p>
+          <p className="  mt-4 ">TEL: 04 84 89 63 51</p>
           </div>
       </footer>
     </div>
